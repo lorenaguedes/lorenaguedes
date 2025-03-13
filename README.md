@@ -15,8 +15,8 @@ Aqui estão algumas das tecnologias e ferramentas que eu uso no meu dia a dia:
 ![Java](https://img.shields.io/badge/-Java-ff69b4?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffb6c1?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/-C%23-ff1493?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-ff69b4?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-ff69b4?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 💖 Front-end  
 ![HTML5](https://img.shields.io/badge/-HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,13 +29,13 @@ Aqui estão algumas das tecnologias e ferramentas que eu uso no meu dia a dia:
 ### 🔥 Back-end  
 ![Node.js](https://img.shields.io/badge/-Node.js-ff69b4?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-ff1493?style=for-the-badge&logo=spring-boot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-ff69b4?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-ff69b4?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 🗄️ Banco de Dados  
 ![SQL](https://img.shields.io/badge/-SQL-ffb6c1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ff69b4?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-ff69b4?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🛠️ Ferramentas  
 ![Git](https://img.shields.io/badge/-Git-ff1493?style=for-the-badge&logo=git&logoColor=white)
