@@ -43,6 +43,7 @@ Aqui estão algumas das tecnologias e ferramentas que eu uso no meu dia a dia:
 ![Docker](https://img.shields.io/badge/-Docker-ff1493?style=for-the-badge&logo=docker&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-ff69b4?style=for-the-badge&logo=playwright&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-ff69b4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-ff69b4?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
