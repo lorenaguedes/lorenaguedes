@@ -15,6 +15,10 @@ Aqui estão algumas das tecnologias e ferramentas que eu uso no meu dia a dia:
 ![Java](https://img.shields.io/badge/-Java-ff69b4?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffb6c1?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/-C%23-ff1493?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-ff69b4?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-ff1493?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-ff69b4?style=for-the-badge&logo=typescript&logoColor=white)
+![R](https://img.shields.io/badge/-R-ff1493?style=for-the-badge&logo=r&logoColor=white)
 
 ### 💖 Front-end  
 ![HTML5](https://img.shields.io/badge/-HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,16 +31,18 @@ Aqui estão algumas das tecnologias e ferramentas que eu uso no meu dia a dia:
 ![Node.js](https://img.shields.io/badge/-Node.js-ff69b4?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-ff1493?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-### 🗄️ Banco de Dados  
-![SQL](https://img.shields.io/badge/-SQL-ffb6c1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ff69b4?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ### 🛠️ Ferramentas  
 ![Git](https://img.shields.io/badge/-Git-ff1493?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-ff1493?style=for-the-badge&logo=docker&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-ff69b4?style=for-the-badge&logo=playwright&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-ff69b4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-ff69b4?style=for-the-badge&logo=arduino&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-ff69b4?style=for-the-badge&logo=tableau&logoColor=white)
+
+### 🗄️ Banco de Dados  
+![SQL](https://img.shields.io/badge/-SQL-ffb6c1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ff69b4?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -65,5 +71,3 @@ Aqui estão algumas das tecnologias e ferramentas que eu uso no meu dia a dia:
 - **E-mail:** lorenaguedes2015lg@gmail.com  
 
 ---
-
-
