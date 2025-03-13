@@ -1,15 +1,15 @@
-# 🌸 Olá, eu sou a Lorena! 👋✨  
+# 🌸💖 Olá, eu sou a Lorena! 💖🌸  
 
 💻 **Desenvolvedora** apaixonada por tecnologia e inovação.  
-🌍 Moro em **Brasil**.  
+🌍 Moro no **Brasil**.  
 📚 Sempre aprendendo e compartilhando conhecimento.  
 🚀 Focada em criar soluções que fazem a diferença.  
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas  
+## 🎀💻 Tecnologias e Ferramentas  
 
-Aqui estão algumas das tecnologias e ferramentas que eu uso no meu dia a dia:
+Aqui estão algumas das tecnologias e ferramentas que eu uso no meu dia a dia:  
 
 ### 🎨 Linguagens de Programação  
 ![Java](https://img.shields.io/badge/-Java-ff69b4?style=for-the-badge&logo=java&logoColor=white)
@@ -40,7 +40,7 @@ Aqui estão algumas das tecnologias e ferramentas que eu uso no meu dia a dia:
 
 ---
 
-## 📊 Estatísticas do GitHub  
+## 📊✨ Estatísticas do GitHub  
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lorenaguedes&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff)  
 
@@ -48,11 +48,22 @@ Aqui estão algumas das tecnologias e ferramentas que eu uso no meu dia a dia:
 
 ---
 
-## 📫 Como me encontrar  
+## ⚽ ✠ Vasco da Gama ✠⚽  
 
-💌 **Me envie um oi!**  
+🚢 **Gigante da Colina, sempre!**  
+🔥 _"Ser Vasco é um sentimento que não se explica, se vive!"_  
+🌟 _Camisas pretas, cruz de malta no peito e muito orgulho!_  
+
+![Vasco](https://img.shields.io/badge/-Vasco%20da%20Gama-ff69b4?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/RwGAAA...)  
+
+---
+
+## 💌 Como me encontrar  
+
+💖 **Me envie um oi!**  
 - **LinkedIn:** [Lorena Guedes no LinkedIn](https://www.linkedin.com/in/lorenaguedess/)  
 - **E-mail:** lorenaguedes2015lg@gmail.com  
 
 ---
+
 
