@@ -24,7 +24,7 @@ Aqui estão algumas das tecnologias e ferramentas que eu uso no meu dia a dia:
 ![CSS3](https://img.shields.io/badge/-CSS3-ff1493?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/-React-ffc0cb?style=for-the-badge&logo=react&logoColor=black)
 ![Svelte](https://img.shields.io/badge/-Svelte-ff69b4?style=for-the-badge&logo=svelte&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-db7093?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-ffc0cb?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-ff69b4?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 🔥 Back-end  
