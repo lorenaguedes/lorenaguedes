@@ -44,10 +44,8 @@ Desenvolvedora FullStack
 ---
 
 ## Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lorenaguedes&show_icons=true&theme=default&hide_border=true&title_color=239120&icon_color=239120)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenaguedes&layout=compact&theme=default&hide_border=true&title_color=239120)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lorenaguedes&show_icons=true&hide_border=true&title_color=239120&icon_color=239120&text_color=555555)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenaguedes&layout=compact&hide_border=true&title_color=239120&text_color=555555)
 ---
 
 ## Contato
